@@ -1,5 +1,4 @@
-<img src="C:\Users\thanm\Downloads\photo.jpg" alt="Alt text" title="Optional title">
-
+![Alt text](C:\Users\thanm\Downloads\photo.jpg )
 # Sai Thanmai Peddader Pally
 
 ## Education
@@ -44,3 +43,7 @@ C, C++, Python, R, Numpy, Pandas, Scikit-Learn, Hadoop ,MongoDB ,Spark, SQL Serv
 - Collaborated with a team of developers and medical professionals to define project objectives and ensure compliance with privacy regulations and healthcare standards.
 
 ## Soft Skills
+ Problem Solving
+- Strong Technical and Interpersonal Communication
+- Adaptability and Flexibility
+- Creative Thinking
