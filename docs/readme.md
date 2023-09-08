@@ -1,4 +1,5 @@
-!(C:\Users\thanm\Downloads\photo.jpg )
+![Alt Text](https://avatars.githubusercontent.com/u/115600540?v=4)
+
 # Sai Thanmai Peddader Pally
 
 ## Education
