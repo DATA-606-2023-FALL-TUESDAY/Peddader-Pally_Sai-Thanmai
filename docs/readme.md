@@ -43,4 +43,11 @@ C, C++, Python, R, Numpy, Pandas, Scikit-Learn, Hadoop ,MongoDB ,Spark, SQL Serv
 - Developed an AI-powered medical chatbot using NLP algorithms for personalized medical assistance.
 - Collaborated with a team of developers and medical professionals to define project objectives and ensure compliance with privacy regulations and healthcare standards.
 
+## Soft Skills
+- Problem Solving
+- Strong Technical and Interpersonal Communication
+- Adaptability and Flexibility
+- Creative Thinking
+  
+
 
