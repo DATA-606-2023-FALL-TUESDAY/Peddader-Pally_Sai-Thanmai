@@ -20,7 +20,6 @@ This topic is of significance due to several reasons:
 ## Research Questions
 
 - How effective is the machine learning model trained on this dataset in accurately identifying diseases based on reported symptoms?
-- Can the chatbot provide reliable recommendations for medical actions (e.g., suggesting self-care, consulting a doctor) based on the identified diseases?
 - How can the chatbot be optimized for user-friendliness and ease of understanding for individuals with varying levels of medical knowledge?
 
 ## Data Information
