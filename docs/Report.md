@@ -5,7 +5,7 @@ Medical Chatbot for Disease Prediction
 UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
 
 **Author Name:**
-Sai Thanmai Peddader Pally
+Sai Thanmai Peddader Pally (Fall 2023)
 
 **Author's Links:**
 - [GitHub Profile](https://github.com/DATA-606-2023-FALL-TUESDAY/Peddader-Pally_Sai-Thanmai)
