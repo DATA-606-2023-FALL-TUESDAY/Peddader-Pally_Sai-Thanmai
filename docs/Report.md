@@ -9,7 +9,7 @@ Sai Thanmai Peddader Pally (Fall 2023)
 
 **Author's Links:**
 - [GitHub Profile]([https://github.com/DATA-606-2023-FALL-TUESDAY/Peddader-Pally_Sai-Thanmai](https://github.com/DATA-606-2023-FALL-TUESDAY/Peddader-Pally_Sai-Thanmai)
-- [LinkedIn Profile](www.linkedin.com/in/sai-thanmai-peddader-pally-8110721b6)
+- [LinkedIn Profile]([www.linkedin.com/in/sai-thanmai-peddader-pally-8110721b6](https://www.linkedin.com/in/sai-thanmai-peddader-pally-8110721b6/))
 
 **Additional Links:**
 - [PowerPoint Presentation]([Medical%20Chatbot%20ppt.pptx](https://1drv.ms/p/s!AtZfPu9_dDXBiPZ79l0_CbEfuV5ZCg?e=aMQcFu)
